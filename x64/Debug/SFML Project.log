@@ -1,0 +1,2 @@
+﻿  SFML Project.cpp
+C:\Users\aldor\Source\repos\SFML Project\SFML Project.cpp(6,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
